@@ -24,18 +24,29 @@
 - LLM Application Development
 - AI Agents / RAG
 - Computer Vision
+- Image Processing / Image Similarity
+- Object Detection
+- 3D CAD / Geometry Processing
 - Vector Search / Semantic Search
 - GPU Inference
 - OpenAI API
+- Anthropic API
 - Google Gemini / Vertex AI
 - Azure AI Document Intelligence
 - Mastra
 - LangChain
-- ONNX
+- Pydantic AI
+- PyTorch / Torchvision
+- ONNX / ONNX Runtime
 - SigLIP
 - YOLOX
+- OpenCV
 - NumPy
+- SciPy
 - Pillow
+- Trimesh
+- PyVista / VTK
+- ezdxf
 
 ### Languages
 
@@ -112,8 +123,17 @@
 - Amazon OpenSearch Service
 - Redis
 - LibSQL
+- ChromaDB
 - Vector Search / k-NN
 - Prisma
+
+### Research & Data Tooling
+
+- JupyterLab
+- Pandas
+- Matplotlib
+- Papermill
+- Poetry
 
 ### Testing & Quality
 
@@ -127,8 +147,10 @@
 - ESLint
 - Prettier
 - Ruff
+- mypy
 - Pyrefly
 - Bandit
+- pre-commit
 - GraphQL Code Generator
 
 ### Observability & Analytics
