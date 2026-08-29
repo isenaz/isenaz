@@ -55,15 +55,25 @@
 - TypeScript
 - JavaScript
 - Python
+- PHP
 - SQL
+- HTML
+- CSS
 
 ### Frontend
 
 - React
 - Next.js
+- Vue.js
+- Vue Router
+- Vuex
 - Material UI
+- Vuetify
 - Emotion
+- Styled Components
+- Stitches
 - Apollo Client
+- Axios
 - Jotai
 - React Hook Form
 - Zod
@@ -71,7 +81,12 @@
 - Three.js / React Three Fiber
 - Konva
 - Tailwind CSS
+- Sass / SCSS
+- Flowbite
+- Swiper
+- jQuery
 - TanStack Query
+- WordPress
 
 ### Backend & API
 
@@ -142,6 +157,13 @@
 - Poetry
 - uv
 
+### Development Tooling
+
+- Turborepo
+- pnpm
+- Gulp
+- BrowserSync
+
 ### Testing & Quality
 
 - Jest
@@ -169,3 +191,7 @@
 - LogRocket
 - Mixpanel
 - Pino
+- Google Analytics
+- Google Tag Manager
+- Google Ads
+- HubSpot
