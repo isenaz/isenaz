@@ -145,13 +145,19 @@
   - AWS Step Functions
   - Amazon ECS / AWS Fargate
   - Amazon EC2 / GPU Instances
-  - Elastic Load Balancing
+  - Amazon EC2 Auto Scaling
+  - Elastic Load Balancing / Application Load Balancer
+  - Amazon CloudFront
+  - Amazon Route 53
+  - AWS Certificate Manager
   - Amazon EventBridge
+  - Amazon SNS
   - Amazon SQS
   - Amazon S3
   - Amazon EFS
   - Amazon ECR
   - Amazon DynamoDB
+  - Amazon RDS
   - Amazon Aurora PostgreSQL
   - Amazon OpenSearch Service
   - Amazon Cognito
