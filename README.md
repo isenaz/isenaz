@@ -18,6 +18,8 @@
 ## Interests
 
 - AI-native SaaS / AI Agents / LLM
+- Product Strategy
+- Product Management
 - Product Engineering
 - Software Architecture
 - Technical Debt & Re-architecture
