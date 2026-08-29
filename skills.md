@@ -23,6 +23,7 @@
 
 - LLM Application Development
 - AI Agents / RAG
+- Model Context Protocol (MCP)
 - Computer Vision
 - Image Processing / Image Similarity
 - Object Detection
@@ -34,6 +35,7 @@
 - Google Gemini / Vertex AI
 - Azure AI Document Intelligence
 - Mastra
+- Vercel AI SDK
 - LangChain
 - Pydantic AI
 - PyTorch / Torchvision
@@ -76,6 +78,7 @@
 - Node.js
 - FastAPI
 - Pydantic
+- HTTPX
 - GraphQL
 - REST / OpenAPI
 - AWS AppSync
@@ -93,6 +96,7 @@
   - Serverless Framework
 - AWS
   - AWS AppSync
+  - Amazon API Gateway
   - AWS Lambda
   - AWS Step Functions
   - Amazon ECS / AWS Fargate
@@ -113,7 +117,9 @@
   - AWS Key Management Service
   - AWS Identity and Access Management
   - Amazon VPC
+- AWS Lambda Web Adapter
 - Docker / Docker Compose
+- MinIO
 - GitHub Actions
 
 ### Database & Search
@@ -134,6 +140,7 @@
 - Matplotlib
 - Papermill
 - Poetry
+- uv
 
 ### Testing & Quality
 
@@ -151,6 +158,8 @@
 - Pyrefly
 - Bandit
 - pre-commit
+- git-secrets
+- cdk-nag
 - GraphQL Code Generator
 
 ### Observability & Analytics
@@ -159,3 +168,4 @@
 - Datadog
 - LogRocket
 - Mixpanel
+- Pino
