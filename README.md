@@ -27,6 +27,10 @@
 - Engineering Management
 - Manufacturing DX
 
+## More
+
+- [Skills](./skills.md)
+
 ## Links
 
 - [匠技研工業株式会社](https://takumi-giken.co.jp/)
