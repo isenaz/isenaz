@@ -17,6 +17,7 @@
 
 ## Interests
 
+- Vertical AI
 - AI-native SaaS / AI Agents / LLM
 - Product Strategy
 - Product Management
