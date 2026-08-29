@@ -19,17 +19,29 @@
 
 ## Tech
 
-### AI
+### AI & Machine Learning
 
 - LLM Application Development
-- AI Agents
+- AI Agents / RAG
+- Computer Vision
+- Vector Search / Semantic Search
+- GPU Inference
 - OpenAI API
-- Azure AI Vision
+- Google Gemini / Vertex AI
+- Azure AI Document Intelligence
+- Mastra
+- LangChain
+- ONNX
+- SigLIP
+- YOLOX
+- NumPy
+- Pillow
 
 ### Languages
 
 - TypeScript
 - JavaScript
+- Python
 - SQL
 
 ### Frontend
@@ -45,11 +57,16 @@
 - Storybook
 - Three.js / React Three Fiber
 - Konva
+- Tailwind CSS
+- TanStack Query
 
 ### Backend & API
 
 - Node.js
+- FastAPI
+- Pydantic
 - GraphQL
+- REST / OpenAPI
 - AWS AppSync
 - AWS Lambda
 - Serverless Framework
@@ -59,22 +76,33 @@
 
 - Serverless Architecture
 - Event-driven Architecture
+- Infrastructure as Code
+  - AWS CDK
+  - AWS CloudFormation
+  - Serverless Framework
 - AWS
   - AWS AppSync
   - AWS Lambda
   - AWS Step Functions
   - Amazon ECS / AWS Fargate
+  - Amazon EC2 / GPU Instances
+  - Elastic Load Balancing
+  - Amazon EventBridge
+  - Amazon SQS
   - Amazon S3
+  - Amazon EFS
+  - Amazon ECR
   - Amazon DynamoDB
   - Amazon Aurora PostgreSQL
   - Amazon OpenSearch Service
   - Amazon Cognito
   - Amazon CloudWatch
+  - AWS Systems Manager Parameter Store
   - AWS Secrets Manager
   - AWS Key Management Service
   - AWS Identity and Access Management
   - Amazon VPC
-- Docker
+- Docker / Docker Compose
 - GitHub Actions
 
 ### Database & Search
@@ -83,6 +111,8 @@
 - Amazon DynamoDB
 - Amazon OpenSearch Service
 - Redis
+- LibSQL
+- Vector Search / k-NN
 - Prisma
 
 ### Testing & Quality
@@ -91,9 +121,14 @@
 - React Testing Library
 - Cypress
 - Playwright
+- Pytest
 - Storybook
+- Testcontainers
 - ESLint
 - Prettier
+- Ruff
+- Pyrefly
+- Bandit
 - GraphQL Code Generator
 
 ### Observability & Analytics
