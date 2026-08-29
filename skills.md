@@ -55,6 +55,8 @@
 - TypeScript
 - JavaScript
 - Python
+- Swift
+- Kotlin
 - PHP
 - SQL
 - HTML
@@ -88,6 +90,16 @@
 - TanStack Query
 - WordPress
 
+### Mobile
+
+- iOS / UIKit
+- Android
+- Xcode
+- Storyboard
+- CocoaPods
+- Google Maps SDK for iOS
+- Google Places SDK for iOS
+
 ### Backend & API
 
 - Node.js
@@ -113,6 +125,7 @@
 - Serverless Architecture
 - Event-driven Architecture
 - Infrastructure as Code
+  - Terraform
   - AWS CDK
   - AWS CloudFormation
   - Serverless Framework
@@ -139,6 +152,11 @@
   - AWS Key Management Service
   - AWS Identity and Access Management
   - Amazon VPC
+- Google Cloud
+  - Google Compute Engine
+  - Google Cloud Storage
+  - Vertex AI
+  - Google Cloud IAM
 - AWS Lambda Web Adapter
 - Docker / Docker Compose
 - MinIO
@@ -170,6 +188,8 @@
 - pnpm
 - Gulp
 - BrowserSync
+- tfenv
+- Google Cloud SDK
 
 ### Testing & Quality
 
@@ -177,6 +197,7 @@
 - React Testing Library
 - Cypress
 - Playwright
+- XCTest / XCUITest
 - Pytest
 - Storybook
 - Testcontainers
