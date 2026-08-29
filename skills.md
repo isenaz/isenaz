@@ -101,6 +101,13 @@
 - Serverless Framework
 - Prisma
 
+### Software Architecture
+
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Ports and Adapters Architecture
+- Dependency Injection
+
 ### Architecture & Infrastructure
 
 - Serverless Architecture
