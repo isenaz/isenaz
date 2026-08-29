@@ -1,16 +1,33 @@
-## Hi there 👋
+# 井坂 星南 / Sena Isaka
 
-<!--
-**isenaz/isenaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[匠技研工業株式会社](https://takumi-giken.co.jp/)でCTOをしています。
 
-Here are some ideas to get you started:
+製造業向けAI SaaS「匠フォース」を開発し、技術・プロダクト・事業を横断しながら、製造業の変革に取り組んでいます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+「技術で人に喜びと驚きを届ける」ことを原動力に、身近な課題を解決するものづくりからキャリアを始めました。
+
+現在はCTOとして、主に次の領域を担っています。
+
+- プロダクト戦略と「何をつくるか」の意思決定
+- 技術選定、アーキテクチャ設計、技術基盤づくり
+- プロダクトチームの組織設計と開発プロセス改善
+- AI・LLMを活用した新しいプロダクト価値の探索
+
+単にソフトウェアをつくるのではなく、お客様の業務が根本から変わるような「圧倒的な価値」を届けることを大切にしています。
+
+## Interests
+
+- AI-native SaaS / AI Agents / LLM
+- Product Engineering
+- Software Architecture
+- Technical Debt & Re-architecture
+- Engineering Management
+- Manufacturing DX
+
+## Links
+
+- [匠技研工業株式会社](https://takumi-giken.co.jp/)
+- [CTOインタビュー：最先端の技術で、製造業の変革に挑む](https://note.com/takumigiken/n/n22f2d519cae2)
+- [匠技研工業 公式note](https://note.com/takumigiken)
