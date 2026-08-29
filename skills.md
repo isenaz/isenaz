@@ -57,6 +57,7 @@
 - Python
 - Swift
 - Kotlin
+- Go
 - PHP
 - SQL
 - HTML
@@ -89,6 +90,9 @@
 - jQuery
 - TanStack Query
 - WordPress
+- AWS Amplify
+- Google Maps JavaScript API
+- Vue CLI
 
 ### Mobile
 
@@ -112,6 +116,11 @@
 - AWS Lambda
 - Serverless Framework
 - Prisma
+- Echo
+- Gorilla Mux
+- GORM
+- Stripe API
+- Swagger / OpenAPI
 
 ### Software Architecture
 
@@ -165,13 +174,16 @@
 ### Database & Search
 
 - PostgreSQL
+- MySQL
 - Amazon DynamoDB
 - Amazon OpenSearch Service
 - Redis
 - LibSQL
 - ChromaDB
 - Vector Search / k-NN
+- Spatial Data / GIS
 - Prisma
+- GORM
 
 ### Research & Data Tooling
 
@@ -190,6 +202,8 @@
 - BrowserSync
 - tfenv
 - Google Cloud SDK
+- golang-migrate
+- Goose
 
 ### Testing & Quality
 
@@ -199,6 +213,7 @@
 - Playwright
 - XCTest / XCUITest
 - Pytest
+- Testify
 - Storybook
 - Testcontainers
 - ESLint
