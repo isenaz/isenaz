@@ -10,20 +10,29 @@
 - Vertical SaaS / Vertical AI
 - Manufacturing Domain
 
-## AI
+## Engineering Management
+
+- Engineering Organization Design
+- Hiring
+- Development Process Design
+- Technical Decision-making
+
+## Tech
+
+### AI
 
 - LLM Application Development
 - AI Agents
 - OpenAI API
 - Azure AI Vision
 
-## Languages
+### Languages
 
 - TypeScript
 - JavaScript
 - SQL
 
-## Frontend
+### Frontend
 
 - React
 - Next.js
@@ -37,7 +46,7 @@
 - Three.js / React Three Fiber
 - Konva
 
-## Backend & API
+### Backend & API
 
 - Node.js
 - GraphQL
@@ -46,7 +55,7 @@
 - Serverless Framework
 - Prisma
 
-## Architecture & Infrastructure
+### Architecture & Infrastructure
 
 - Serverless Architecture
 - Event-driven Architecture
@@ -68,7 +77,7 @@
 - Docker
 - GitHub Actions
 
-## Database & Search
+### Database & Search
 
 - PostgreSQL
 - Amazon DynamoDB
@@ -76,7 +85,7 @@
 - Redis
 - Prisma
 
-## Testing & Quality
+### Testing & Quality
 
 - Jest
 - React Testing Library
@@ -87,16 +96,9 @@
 - Prettier
 - GraphQL Code Generator
 
-## Observability & Analytics
+### Observability & Analytics
 
 - Sentry
 - Datadog
 - LogRocket
 - Mixpanel
-
-## Engineering Management
-
-- Engineering Organization Design
-- Hiring
-- Development Process Design
-- Technical Decision-making
