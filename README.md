@@ -30,6 +30,9 @@
 ## More
 
 - [Skills](./skills.md)
+- [Career](./career.md)
+- [Projects](./projects.md)
+- [Talks & Writing](./talks-and-writing.md)
 
 ## Links
 
