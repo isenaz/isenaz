@@ -27,6 +27,12 @@
 - Engineering Management
 - Manufacturing DX
 
+## Personal
+
+中学生の頃に、JavaやObjective-C、ActionScriptを使った開発からソフトウェアづくりを始めました。その後、大学でのAI研究開発やBtoB SaaS開発を経て、匠技研工業を共同創業しました。
+
+趣味はガジェット、キックボクシング、バイクです。エディタはVim、キーボードはsphh jp2を使っています。
+
 ## More
 
 - [Skills](./skills.md)
