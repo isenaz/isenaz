@@ -162,6 +162,11 @@
   - Amazon OpenSearch Service
   - Amazon Cognito
   - Amazon CloudWatch
+  - AWS Organizations
+  - AWS Control Tower
+  - AWS IAM Identity Center
+  - AWS Config
+  - Amazon GuardDuty
   - AWS Systems Manager Parameter Store
   - AWS Secrets Manager
   - AWS Key Management Service
