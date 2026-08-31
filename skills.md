@@ -150,11 +150,11 @@
   - **Amazon ECS / AWS Fargate**
   - **Amazon EC2 / GPU Instances**
   - **Elastic Load Balancing / Application Load Balancer**
-  - Amazon CloudFront
-  - Amazon Route 53
-  - AWS Certificate Manager
+  - **Amazon CloudFront**
+  - **Amazon Route 53**
+  - **AWS Certificate Manager**
   - **Amazon EventBridge**
-  - Amazon SNS
+  - **Amazon SNS**
   - **Amazon SQS**
   - **Amazon S3**
   - **Amazon EFS**
