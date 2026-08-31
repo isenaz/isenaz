@@ -15,6 +15,20 @@
 
 単にソフトウェアをつくるのではなく、お客様の業務が根本から変わるような「圧倒的な価値」を届けることを大切にしています。
 
+## Personal
+
+- 趣味：電子機器、キックボクシング、バイク
+- エディタ：Vim
+- キーボード：sphh jp2
+
+## Talks
+
+- [AI時代に生き残るプロダクトと組織設計 — YOUTRUST Product History Conference 2026](https://speakerdeck.com/takumiengineering/aishi-dai-nisheng-kican-ruhurotakutotozu-zhi-she-ji)
+- [エンジニア・デザイナー出身PdMが活躍する、事業変化に柔軟に対応可能な組織戦略 — pmconf 2025](https://speakerdeck.com/takumiengineering/enziniadezainacs-chu-shen-pdmgahuo-yue-suru-shi-ye-bian-hua-nirou-ruan-ni-dui-ying-ke-neng-nazu-zhi-zhan-lue)
+- [製造業ドメインにOneTeamでディープ・ダイブする組織設計・組織運営 — Product Engineer Night #4](https://speakerdeck.com/i_senaz/zhi-zao-ye-domeinnioneteamdedeipudaibusuruzu-zhi-she-ji-zu-zhi-yun-ying)
+
+[登壇・執筆・インタビュー実績の詳細はこちら](./talks-and-writing.md)
+
 ## Interests
 
 - Vertical AI
@@ -26,20 +40,6 @@
 - Technical Debt & Re-architecture
 - Engineering Management
 - Manufacturing DX
-
-## Talks
-
-- [AI時代に生き残るプロダクトと組織設計 — YOUTRUST Product History Conference 2026](https://speakerdeck.com/takumiengineering/aishi-dai-nisheng-kican-ruhurotakutotozu-zhi-she-ji)
-- [エンジニア・デザイナー出身PdMが活躍する、事業変化に柔軟に対応可能な組織戦略 — pmconf 2025](https://speakerdeck.com/takumiengineering/enziniadezainacs-chu-shen-pdmgahuo-yue-suru-shi-ye-bian-hua-nirou-ruan-ni-dui-ying-ke-neng-nazu-zhi-zhan-lue)
-- [製造業ドメインにOneTeamでディープ・ダイブする組織設計・組織運営 — Product Engineer Night #4](https://speakerdeck.com/i_senaz/zhi-zao-ye-domeinnioneteamdedeipudaibusuruzu-zhi-she-ji-zu-zhi-yun-ying)
-
-[登壇・執筆・インタビュー実績の詳細はこちら](./talks-and-writing.md)
-
-## Personal
-
-- 趣味：電子機器、キックボクシング、バイク
-- エディタ：Vim
-- キーボード：sphh jp2
 
 ## More
 
