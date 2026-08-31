@@ -191,9 +191,9 @@
 - MySQL
 - **Amazon DynamoDB**
 - **Amazon OpenSearch Service**
-- **Redis**
-- **LibSQL**
-- **ChromaDB**
+- Redis
+- LibSQL
+- ChromaDB
 - **Vector Search / k-NN**
 - Spatial Data / GIS
 - **Prisma**
