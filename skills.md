@@ -204,7 +204,7 @@
 - **JupyterLab**
 - **Pandas**
 - **Matplotlib**
-- **Papermill**
+- Papermill
 - **Poetry**
 - **uv**
 
