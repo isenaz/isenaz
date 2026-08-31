@@ -165,7 +165,7 @@
   - **Amazon OpenSearch Service**
   - **Amazon Cognito**
   - **Amazon CloudWatch**
-  - AWS Organizations
+  - **AWS Organizations**
   - AWS Control Tower
   - AWS IAM Identity Center
   - AWS Config
