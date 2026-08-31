@@ -244,10 +244,10 @@
 ### Observability & Analytics
 
 - **Sentry**
-- **Datadog**
+- Datadog
 - **LogRocket**
 - **Mixpanel**
-- **Pino**
+- Pino
 - Google Analytics
 - Google Tag Manager
 - Google Ads
