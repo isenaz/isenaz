@@ -149,7 +149,6 @@
   - **AWS Step Functions**
   - **Amazon ECS / AWS Fargate**
   - **Amazon EC2 / GPU Instances**
-  - Amazon EC2 Auto Scaling
   - **Elastic Load Balancing / Application Load Balancer**
   - Amazon CloudFront
   - Amazon Route 53
