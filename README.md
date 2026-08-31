@@ -37,8 +37,6 @@
 
 ## Personal
 
-中学生の頃に、JavaやObjective-C、ActionScriptを使った開発からソフトウェアづくりを始めました。その後、AI研究開発やBtoB SaaS開発を経て、匠技研工業を共同創業しました。
-
 - 趣味：電子機器、キックボクシング、バイク
 - エディタ：Vim
 - キーボード：sphh jp2
@@ -46,8 +44,8 @@
 ## More
 
 - [Skills](./skills.md)
-- [Career](./career.md)
-- [Projects](./projects.md)
+- Career [TBD]
+- Projects [TBD]
 - [Talks & Writing](./talks-and-writing.md)
 
 ## Links
