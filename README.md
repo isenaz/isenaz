@@ -53,6 +53,8 @@
 
 ## Links
 
+- [X (@i_senaz)](https://x.com/i_senaz)
+
 - [匠技研工業株式会社](https://takumi-giken.co.jp/)
 - [CTOインタビュー：最先端の技術で、製造業の変革に挑む](https://note.com/takumigiken/n/n22f2d519cae2)
 - [匠技研工業 公式note](https://note.com/takumigiken)
